@@ -2,6 +2,7 @@ import React from "react";
 import "./index.scss";
 
 function App() {
+  // hello world
   return (
     <div className="App">
       {/* <button className="open-modal-btn">✨ Открыть окно</button>
